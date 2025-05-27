@@ -1,3 +1,3 @@
-error = "Error 500"
+error = "Error 501"
 
 print("Erro encontrado", error, sep=" - ", end='\n')
