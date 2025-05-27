@@ -3,9 +3,9 @@ n1 = 11
 n2 = -11
 n3 = 0
 
-print(11)
-print(-11)
-print(0)
+print(n1)
+print(n2)
+print(n3)
 
 # Float
 
