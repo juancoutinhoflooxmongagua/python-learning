@@ -1,7 +1,7 @@
 print('Hello World')
 
-"""""
-    This is Doc String
+'''
+ This is Doc String
 
     def(test)
-"""""
+'''
