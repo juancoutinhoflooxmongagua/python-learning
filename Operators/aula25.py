@@ -1,7 +1,7 @@
 name = 'Juan'
-
 price = 123
+f_total_message = ", o preço é R$"
 
-variable = '%s, o preço é R$%.2f' % (name, price)
+message = '%s %s %.2f' % (name, f_total_message, price)
 
-print(variable)
+print(message)
